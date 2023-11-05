@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <!-- [![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dardin-dale&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/Dardin-dale/github-readme-stats) -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dardin-dale&theme=tokyonight&layout=compact)](https://github.com/Dardin-dale/github-readme-stats)
+ [![Logan's GitHub stats](https://github-readme-stats-puce-chi.vercel.app/api?username=Dardin-dale&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/Dardin-dale/github-readme-stats)
+ [![Top Langs](https://github-readme-stats-puce-chi.vercel.app/api/top-langs/?username=Dardin-dale&theme=tokyonight&layout=compact)](https://github.com/Dardin-dale/github-readme-stats)
