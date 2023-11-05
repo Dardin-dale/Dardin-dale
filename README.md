@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- [![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dardin-dale&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/Dardin-dale/github-readme-stats)
+ <!-- [![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dardin-dale&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/Dardin-dale/github-readme-stats) -->
