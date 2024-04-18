@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Logan Crecraft</h1>
-<h3 align="center">Full-Stack Developer | 👨‍💻 MS student | IOT/Biotechnology 🧬</h3>
+<h3 align="center">Full-Stack Developer | 👨‍💻 Graduate Student | IOT/Biotechnology 🧬</h3>
 
-- 🌱 I’m currently learning **C++, Rust, Dart**
+- 🌱 I’m currently learning **C#, Rust, Dart**
 
 - 💬 Ask me about **Electron**
 
 
-<p>Software developer with a knack for crafting desktop applications to manage embedded devices. 👨‍🔬 Proficient in Electron/React, Python, and Rust. 🚀 Chemistry grad blending science and tech.</p>
+<p>Software developer with a knack for crafting desktop applications to manage embedded devices. 👨‍🔬 Proficient in Electron/React, Python, Java, and C++. 🚀 Chemistry grad blending science and tech.</p>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
