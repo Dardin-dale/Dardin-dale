@@ -6,7 +6,8 @@
 - 💬 Ask me about **Electron**
 
 
-<p>Software developer with a knack for crafting desktop applications to manage embedded devices. 👨‍🔬 Proficient in Electron/React, Python, Java, and C++. 🚀 Chemistry grad blending science and tech.</p>
+<p>Software developer with a knack for crafting desktop applications to manage embedded devices. 👨‍🔬 Proficient in Electron/React, Python, Java, and C++. 🚀 Chemistry grad blending science and tech.
+I currently do most of my professional development on BitBucket and GitLab.</p>
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
