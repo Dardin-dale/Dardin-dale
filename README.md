@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan Crecraft</h1>
-<h3 align="center">Full-Stack Developer | 👨‍💻 Graduate Student | IOT/Biotechnology 🧬</h3>
+<h3 align="center">Full-Stack Developer | IOT/Biotechnology 🧬</h3>
 
 - 🌱 I’m currently learning **C#, Rust, Dart**
 
