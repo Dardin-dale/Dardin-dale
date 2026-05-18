@@ -9,7 +9,7 @@ I build and maintain production systems end-to-end — from payment integrations
 - **Payments & Commerce** — Stripe integration including Express Checkout (Apple Pay / Google Pay), subscription billing, and payment lifecycle management
 - **Full-Stack Development** — Java and Dart backends, modern web frontends, REST APIs, and database architecture (migrated production systems from HBase to LMDB)
 - **Infrastructure & DevOps** — Blue-green deployments, automated SSL certificate management, CI/CD pipelines, and production monitoring
-- **AI/ML Features** — RAG-powered chatbot systems with retrieval-augmented generation for customer-facing support
+- **AI/ML Features** — RAG-powered chatbot systems for customer-facing support
 
 ## Previously
 
